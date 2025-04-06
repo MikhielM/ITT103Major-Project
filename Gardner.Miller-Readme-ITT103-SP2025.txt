@@ -1,0 +1,41 @@
+Authors: Rannelle Gardener, Mikhiel Miller
+Date Created: April 6,2025
+Course: ITT103
+Github Links: https://github.com/Ra-nn-elle1/RannelleGardner20243806
+              
+                  https://github.com/MikhielM/MikhielMiller20247196
+
+Purpose of Program:
+
+- This program was designed to function as a point of sales system.
+
+
+Program Generation:
+
+The first steps to running the program include:
+
+Selecting an option
+
+-View Items
+-Add Item 
+-Remove Item
+-View Cart
+-Checkout
+-Exit
+
+-Ensure that the data entered aligns with the option that was selected
+-Perform the necessary calculations at the checkout option
+-Print Receipt
+
+Required Modifications:
+
+- Install packages that will be needed
+- Wire the settings in a way the user likes
+
+Assumptions
+
+-The program assumes that the user is familiar with using the terminal or command prompt.
+
+Limitations:
+
+- Program can only be used to carry out the functions listed above
